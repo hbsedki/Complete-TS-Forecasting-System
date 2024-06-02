@@ -59,4 +59,5 @@ Models used in this project :
 
 
 ## Results
+<img width="366" alt="Screenshot 2024-06-02 at 5 45 28 PM" src="https://github.com/hbsedki/Complete-TS-Forecasting-System/assets/150509637/0afbf580-6169-42ba-b04a-c701f3fe9050">
 
