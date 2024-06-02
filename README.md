@@ -35,13 +35,13 @@ We plot the train an validation Mean Absolute Error for each case and also compa
 ## Requirements
 To run the code, you need to install the following libraries:
 
-matplotlib
-Numpy, panda, math
-Seaborn
-Xgboost
-Tensorflow
-keras
-Scikit Learn
+- matplotlib
+- Numpy, panda, math
+- Seaborn
+- Xgboost
+- Tensorflow
+- keras
+- Scikit Learn
 
 ## Models
 Models used in this project :
