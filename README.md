@@ -46,16 +46,16 @@ Scikit Learn
 ## Models
 Models used in this project :
 1. Machine learning:
-      XGboost Regressor
+      - XGboost Regressor
 3. Deep learning/Stacked models :
-      GRU
-      LSTM
-      CNN
-      CNN-LSTM
-      LSTM-Attention
+      - GRU
+      - LSTM
+      - CNN
+      - CNN-LSTM
+      - LSTM-Attention
 5. Hybrid methods:
-      GRU-XGBoost
-      LSTM-Attention-XGBoost
+      - GRU-XGBoost
+      - LSTM-Attention-XGBoost
 
 
 ## Results
